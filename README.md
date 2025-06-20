@@ -30,3 +30,5 @@ npm run dev
 CORS Issue in Production
 
 https://muntasir-task-3.vercel.app
+
+The application is deployed at [https://muntasir-task-3.vercel.app](https://muntasir-task-3.vercel.app) but is currently affected by CORS restrictions in the production environment. This limits the app’s ability to fetch data from the remote API due to missing cross-origin permissions.
