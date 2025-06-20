@@ -9,10 +9,10 @@ This feature implements an infinite scroll user feed with real-time data fetchin
 ## ⚙️ Setup Instructions
 
 Follow the steps below to run the project locally:
-git clone https://github.com/mahmud-muntasir/task-3.git
-cd task-3
-npm install
-npm run dev
+- git clone https://github.com/mahmud-muntasir/task-3.git
+- cd task-3
+- npm install
+- npm run dev
 
 ---
 
